@@ -13,6 +13,11 @@ To add some extra learning to the projects we chose to use Styled components ins
 
 If we had more time we would add progress bar that fills up, more styling and maybe some funny images and gifs.
 
+## Learning Objectives 
+
+- To interact with the store using selectors or by dispatching actions
+- Practice working in a development team
+
 ## Tech
 - Redux
 - React
